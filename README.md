@@ -1,3 +1,3 @@
 # MyStudies
-My first repository on GitHub
+My first repository on GitHub.
 Here i have my studies files
